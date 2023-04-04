@@ -12,7 +12,7 @@ body {
 .container {
     display: flex;
     justify-content: center;
-    padding: 110px;
+    padding: 120px;
 }
 
 .qr-code-image {
@@ -32,6 +32,7 @@ h2 {
     padding: 16px;
     border-radius: 15px;
     margin: 0 1em;
+    box-shadow: hsl(220, 15%, 55%) 0px 7px 20px 0px;
 }
 
 p {
