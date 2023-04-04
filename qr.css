@@ -12,7 +12,7 @@ body {
 .container {
     display: flex;
     justify-content: center;
-    padding: 120px;
+    padding: 110px;
 }
 
 .qr-code-image {
